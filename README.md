@@ -80,7 +80,7 @@ Note: If you cannot see images (attachments) on webpage , then remove folder ‘
 
 
 ### Admin's home page after Admin Login
-![admin s home page after admin login](https://drive.google.com/file/d/1fktDGqlrb8bc3M0xCICBzfEcCmuKj275/view?usp=sharing)
+![admin s home page after admin login](https://mega.nz/file/Wx0VAITJ#kPc8UxF5yINkho_jczMdqMT8DO9ut9PGn5rbEjfpTHk)
 
 
 
