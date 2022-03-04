@@ -80,7 +80,7 @@ Note: If you cannot see images (attachments) on webpage , then remove folder ‘
 
 
 ### Admin's home page after Admin Login
-![admin s home page after admin login](https://user-images.githubusercontent.com/14937374/38236536-c6057768-3724-11e8-86d8-bf876a8e4c5e.png)
+![admin s home page after admin login](https://drive.google.com/file/d/1fktDGqlrb8bc3M0xCICBzfEcCmuKj275/view?usp=sharing)
 
 
 
